@@ -2,4 +2,7 @@
 
 "use strict"
 
-console.log("IT'S WORKING");
+//////////////////// EXECUTE with "./07.js (fileToUseHere)" ////////////////////
+// ran "chmod +x 07.js" from TERMINAL to allow execution capabilities
+
+const fs = require("fs");
