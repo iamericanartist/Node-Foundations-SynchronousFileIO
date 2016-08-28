@@ -1,6 +1,7 @@
 # Synchronous File IO
 ## Node Foundations / Exercise 07 / Synchronous File IO
 
+
 ![Synchronous File IO](syncScrn.jpg?raw=true "Synchronous File IO Screenshot")
 ***
 
