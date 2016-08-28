@@ -63,10 +63,7 @@ file is in.
 -   Avoid `.toString`. Return a String primitive rather than a Buffer object
     from `readFileSync`
 
-## Additional Reading
 
-[Buffers][]
-[Node.js Buffer objects][]
 
 ***
 [Original Exercise Link](https://github.com/nashville-software-school/node-milestones/blob/master/01-foundations/exercises/07-file_io.md)
